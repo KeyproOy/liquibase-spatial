@@ -98,6 +98,7 @@
          <version>${h2.version}</version>
          <scope>test</scope>
       </dependency>
+<!--
       <dependency>
          <groupId>net.sourceforge.hatbox</groupId>
          <artifactId>hatbox</artifactId>
@@ -116,6 +117,7 @@
          <version>${geodb.version}</version>
          <scope>test</scope>
       </dependency>
+-->
       <dependency>
          <groupId>org.testng</groupId>
          <artifactId>testng</artifactId>

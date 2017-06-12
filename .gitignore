@@ -7,3 +7,5 @@
 /test-output
 /derby.log
 /pom.xml.bak
+.idea/
+liquibase-spatial.iml
